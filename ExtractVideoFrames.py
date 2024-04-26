@@ -1,7 +1,7 @@
 """
 Program Name: ExtractVideoFrames
 Author: woodsj1206 (https://github.com/woodsj1206)
-Description: This program extracts frames from a video file at regular intervals and saves them as PNG images. 
+Description: This program extracts frames from a video file based on its FPS and saves them as PNG images. 
 Date Created: 4/18/24
 Last Modified: 4/26/24
 """
