@@ -20,13 +20,13 @@ https://github.com/woodsj1206/Extract-Video-Frames/assets/47829885/7ec846d7-1ee1
 
 Video by [Evgenia Kirpichnikova](https://www.pexels.com/video/close-up-of-a-brown-and-white-pet-dog-2795691/) from Pexels. 
 
-### Inputting a Video
+### Inputting a Video:
 | Input Prompt        | Input Example Video           |
 | ------------- |:-------------:|
 | ![Screenshot](assets/input_prompt_screenshot.png) | ![Screenshot](assets/input_example_screenshot.png) |
 
 
-### Output
+### Output:
 | Console Output       | Image Output           |
 | ------------- |:-------------:|
 | ![Screenshot](assets/console_output_screenshot.png) | ![Screenshot](assets/image_output_screenshot.png) | 
