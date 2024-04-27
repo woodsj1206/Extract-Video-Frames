@@ -18,6 +18,8 @@ ExtractVideoFrames is a simple Python application designed to extract frames fro
 ### Example Video:
 https://github.com/woodsj1206/Extract-Video-Frames/assets/47829885/7ec846d7-1ee1-4fe2-acb7-f3f469b180b9
 
+Video by [Evgenia Kirpichnikova](https://www.pexels.com/video/close-up-of-a-brown-and-white-pet-dog-2795691/) from Pexels. 
+
 ### Inputting a Video
 | Input Prompt        | Input Example Video           |
 | ------------- |:-------------:|
