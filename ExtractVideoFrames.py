@@ -3,7 +3,7 @@ Program Name: ExtractVideoFrames
 Author: woodsj1206 (https://github.com/woodsj1206)
 Description: This program extracts frames from a video file based on its FPS and saves them as PNG images. 
 Date Created: 4/18/24
-Last Modified: 4/26/24
+Last Modified: 5/2/24
 """
 
 import cv2
@@ -19,7 +19,7 @@ def extract_frames(video_path, output_folder):
         return
     
     # Get the frame rate of the video
-    fps = video.get(cv2.CAP_PROP_FPS)
+    fps = int(video.get(cv2.CAP_PROP_FPS))
     
     # Initialize frame counter and extracted frames counter
     frame_count = 0
