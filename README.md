@@ -1,7 +1,7 @@
 
 
 # Extract-Video-Frames
-ExtractVideoFrames is a Python application that can extract frames from a video file based on its FPS and save them as PNG images.
+ExtractVideoFrames is a Python program that can extract frames from a video file based on its FPS and save them as PNG images.
 
 
 ## Features
